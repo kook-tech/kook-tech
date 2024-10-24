@@ -40,5 +40,7 @@
   <a href="mailto:oka1313@gmail.com">
     <img
       src="https://img.shields.io/badge/knkn9436@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+     <img
+      src="https://img.shields.io/badge/knkn9436@naver.com-39E09B?style=for-the-badge&logoColor=white"/>&nbsp
   </a>
 </div>
