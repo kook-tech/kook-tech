@@ -20,7 +20,7 @@
 <br>
 <h4 align="center">📚 Databases 📚</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
 </div>
 <br>
@@ -32,6 +32,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 <br>
@@ -39,8 +40,8 @@
 <div align="center">
   <a href="mailto:oka1313@gmail.com">
     <img
-      src="https://img.shields.io/badge/knkn9436@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-     <img
-      src="https://img.shields.io/badge/knkn9436@naver.com-39E09B?style=for-the-badge&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/knkn9436@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/knkn9436@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </div>
